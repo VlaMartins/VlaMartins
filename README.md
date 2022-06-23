@@ -1,0 +1,4 @@
+- 👋 Olá, Eu sou professora @Vladismara
+- 👀 meu interesse na área de programaçao nesse momento é nos conteúdos de Pensamento Computacional
+- 🌱 Estou aprendendo scratch e java script ...
+- 📫 E-mail: vladismara.martins@escola.pr.gov.br
